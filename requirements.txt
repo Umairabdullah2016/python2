@@ -1,1 +1,12 @@
 ursina
+panda3d
+pillow
+pyperclip
+panda3d-gltf
+screeninfo
+psutil
+imageio
+psd-tools3
+thumbhash-python
+blender
+
